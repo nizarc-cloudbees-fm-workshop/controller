@@ -1,0 +1,4 @@
+variables:
+- team: nizarc-cloudbees-fm-workshop
+- admin-user: nizarchoudhury-admin
+- manager-user: nizarchoudhury
